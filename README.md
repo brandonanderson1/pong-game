@@ -30,4 +30,4 @@ Player 2 controls: `Arrow keys`
 - `Ball` — ball movement, collision, and scoring logic
 - `Paddle` — paddle movement and control handling
 - `Scoreboard` — score tracking and game-over logic
-- `GDV5` — custom game engine base (rendering, input, game loop)
+- `GDV5` — instructor-provided game engine base (rendering, input, game loop)
